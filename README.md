@@ -1,0 +1,3 @@
+# glittery.github.io
+
+# Welp. This is the readme. Nothing to see here...
