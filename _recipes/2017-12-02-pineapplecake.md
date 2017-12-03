@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Pineapple Cake with Icing"
+date: 2017-12-02
+---
+
 Yellow cake mix
 Tsp vanilla extract
 Tbsp instant vanilla pudding 
