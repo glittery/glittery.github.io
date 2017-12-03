@@ -6,6 +6,6 @@ title: Recipes
 	<ul class="posts">
 
 	  {% for post in site.recipes %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	    <li><span>{{ recipes.date | date_to_string }}</span> » <a href="{{ recipes.url }}" title="{{ recipes.title }}">{{ recipes.title }}</a></li>
 	  {% endfor %}
 	</ul>
