@@ -5,7 +5,7 @@ title: Recipes
 	<h1>{{ page.title }}</h1>
 	<ul class="post">
 
-	  {% for post in site.recipes %}
+	  {% for recipes in site.recipes %}
 	    <li><span>{{ recipes.date | date_to_string }}</span> » 
 		    <a href="{{ recipes.url }}" title="{{ recipes.title }}">{{ recipes.title }}</a></li>
 	  {% endfor %}
