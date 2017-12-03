@@ -1,4 +1,10 @@
 
+---
+layout: post
+title: "Corn Cassarole"
+date: 2017-12-02
+---
+
 1/2 cup butter
 
 2 egg whites
