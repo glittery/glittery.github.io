@@ -9,11 +9,13 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    color: 00507B;
 }
 nav ul li, footer ul li {
      font-family:'Helvetica', 'Arial', 'Sans-Serif';
     display: inline;
     margin-right: 20px;
+    color: 00507B;
 }
 a {
      font-family:'Helvetica', 'Arial', 'Sans-Serif';
